@@ -2,6 +2,12 @@
 
 Ignite is an in-development e-book convertor for Kindle books (KF8).
 
+To my knowledge, Calibre is the only open-source KF8 convertor. Ignite is the second and aims to be:
+
+- correct
+- easily embeddable
+- performant
+
 Currently, this repo is mainly a placeholder. Check out https://github.com/codetheweb/kf8-rs to see active development.
 
 ## FAQ
